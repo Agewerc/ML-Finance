@@ -1,0 +1,1245 @@
+id,rating_agency_name,file_creating_date,issued_paid,rating,rating_action_date,rating_action_class,obligor_sec_category,obligor_name,Ticker
+0,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2017,WO,Corporate,Baker Hughes Inc,BHI
+1,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/18/2012,DG,Corporate,Baker Hughes Inc,BHI
+2,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,4/5/2010,HS,Corporate,Baker Hughes Inc,BHI
+3,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Ball Corp,BLL
+4,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/1/2010,HS,Corporate,Ball Corp,BLL
+5,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/28/2018,UP,Corporate,Barrick Gold Corp,ABX
+6,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/17/2013,DG,Corporate,Barrick Gold Corp,ABX
+7,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/29/2012,DG,Corporate,Barrick Gold Corp,ABX
+8,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/10/2010,HS,Corporate,Barrick Gold Corp,ABX
+12,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/4/2018,UP,Corporate,Baxter International Inc,BAX
+13,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/27/2015,DG,Corporate,Baxter International Inc,BAX
+14,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,12/14/2010,DG,Corporate,Baxter International Inc,BAX
+15,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,1/11/2010,HS,Corporate,Baxter International Inc,BAX
+20,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/2/2015,WO,Corporate,BCE Inc,BCE
+21,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/12/2014,DG,Corporate,BCE Inc,BCE
+22,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/8/2010,HS,Corporate,BCE Inc,BCE
+26,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/20/2017,DG,Corporate,"Becton, Dickinson and Co",BDX
+27,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/15/2014,DG,Corporate,"Becton, Dickinson and Co",BDX
+28,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,2/8/2012,DG,Corporate,"Becton, Dickinson and Co",BDX
+29,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2010,DG,Corporate,"Becton, Dickinson and Co",BDX
+30,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA+,11/18/2009,HS,Corporate,"Becton, Dickinson and Co",BDX
+31,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,4/19/2018,DG,Corporate,Bed Bath & Beyond Inc,BBBY
+32,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/2/2017,DG,Corporate,Bed Bath & Beyond Inc,BBBY
+33,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/23/2014,HS,Corporate,Bed Bath & Beyond Inc,BBBY
+34,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Bemis Co Inc,BMS
+35,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/28/2010,HS,Corporate,Bemis Co Inc,BMS
+36,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Best Buy Co Inc,BBY
+37,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/20/2017,UP,Corporate,Best Buy Co Inc,BBY
+38,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,2/1/2016,UP,Corporate,Best Buy Co Inc,BBY
+39,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,11/27/2012,DG,Corporate,Best Buy Co Inc,BBY
+40,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/3/2010,HS,Corporate,Best Buy Co Inc,BBY
+43,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Biomarin Pharmaceutical Inc,BMRN
+44,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/10/2015,DG,Corporate,Biomarin Pharmaceutical Inc,BMRN
+45,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/8/2010,HS,Corporate,Biomarin Pharmaceutical Inc,BMRN
+46,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,BioMed Realty Trust Inc,BMR
+47,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,BioMed Realty Trust Inc,BMR
+58,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/15/2013,UP,Corporate,Boeing Co,BA
+59,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/29/2010,HS,Corporate,Boeing Co,BA
+60,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,BorgWarner Inc,BWA
+61,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/10/2015,DG,Corporate,BorgWarner Inc,BWA
+62,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/1/2013,UP,Corporate,BorgWarner Inc,BWA
+63,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/22/2010,HS,Corporate,BorgWarner Inc,BWA
+64,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,1/29/2018,NW,Corporate,Boston Properties Inc,BXP
+65,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Boston Properties Inc,BXP
+66,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,Boston Properties Inc,BXP
+67,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/11/2018,UP,Corporate,Boston Scientific Corp,BSX
+68,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/24/2016,UP,Corporate,Boston Scientific Corp,BSX
+69,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/13/2011,UP,Corporate,Boston Scientific Corp,BSX
+70,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,5/12/2010,HS,Corporate,Boston Scientific Corp,BSX
+71,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Boyd Gaming Corp,BYD
+72,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,6/11/2010,HS,Corporate,Boyd Gaming Corp,BYD
+76,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/18/2013,HS,Corporate,Brandywine Realty Trust,BDN
+77,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/17/2012,WO,Corporate,Brinker International Inc,EAT
+78,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,4/5/2010,HS,Corporate,Brinker International Inc,EAT
+84,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/15/2017,WO,Corporate,Sky PLC,MOBI
+85,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/24/2016,DG,Corporate,Sky PLC,MOBI
+86,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/29/2010,HS,Corporate,Sky PLC,MOBI
+87,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/28/2015,WO,Corporate,Broadcom Corp,BRCM
+88,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/22/2010,HS,Corporate,Broadcom Corp,BRCM
+90,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2015,WO,Corporate,BT Group PLC,BT
+91,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/7/2011,UP,Corporate,BT Group PLC,BT
+92,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/26/2010,HS,Corporate,BT Group PLC,BT
+93,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/1/2014,WO,Corporate,Buckeye Partners LP,BPL
+94,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/16/2010,HS,Corporate,Buckeye Partners LP,BPL
+95,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/21/2017,WO,Corporate,C.R. Bard Inc,CA
+96,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/20/2017,DG,Corporate,C.R. Bard Inc,CA
+97,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,2/8/2011,HS,Corporate,C.R. Bard Inc,CA
+102,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Calpine Corp,CPT
+103,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,10/24/2012,HS,Corporate,Calpine Corp,CPT
+104,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/15/2017,HS,Corporate,Camden Property Trust,CCJ
+105,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Cameco Corp,CAM
+106,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/11/2010,HS,Corporate,Cameco Corp,CAM
+115,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/18/2018,WO,Corporate,Canadian Pacific Railway Ltd,COF
+116,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/29/2016,DG,Corporate,Canadian Pacific Railway Ltd,COF
+117,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/29/2016,UP,Corporate,Canadian Pacific Railway Ltd,COF
+118,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/27/2016,DG,Corporate,Canadian Pacific Railway Ltd,COF
+119,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/7/2014,UP,Corporate,Canadian Pacific Railway Ltd,COF
+120,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/22/2010,HS,Corporate,Canadian Pacific Railway Ltd,COF
+121,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/12/2018,DG,Corporate,Cardinal Health Inc,CFN
+122,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/10/2017,DG,Corporate,Cardinal Health Inc,CFN
+123,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/12/2014,UP,Corporate,Cardinal Health Inc,CFN
+124,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/28/2010,HS,Corporate,Cardinal Health Inc,CFN
+128,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/25/2014,WO,Corporate,Carter's Inc,CWST
+129,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/6/2013,HS,Corporate,Carter's Inc,CWST
+130,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Casella Waste Systems Inc,CAT
+131,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,7/12/2010,HS,Corporate,Casella Waste Systems Inc,CAT
+133,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/15/2012,UP,Corporate,CBS Corp,CELG
+134,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/29/2012,UP,Corporate,CBS Corp,CELG
+135,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,7/14/2010,UP,Corporate,CBS Corp,CELG
+136,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,11/18/2009,HS,Corporate,CBS Corp,CELG
+137,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/4/2015,DG,Corporate,Celgene Corp,CNC
+138,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/2/2010,HS,Corporate,Celgene Corp,CNC
+143,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Century Aluminum Co,CTL
+144,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,11/11/2010,HS,Corporate,Century Aluminum Co,CTL
+149,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/2/2011,WO,Corporate,Cephalon Inc,CF
+150,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/22/2010,HS,Corporate,Cephalon Inc,CF
+151,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,11/10/2016,DG,Corporate,CF Industries Holdings Inc,CRL
+152,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/28/2013,HS,Corporate,CF Industries Holdings Inc,CRL
+153,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/9/2013,WO,Corporate,Charles River Laboratories International Inc,SCHW
+154,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/30/2010,HS,Corporate,Charles River Laboratories International Inc,SCHW
+157,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/20/2017,WO,Corporate,Chesapeake Energy Corp,CVX
+158,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,1/14/2016,DG,Corporate,Chesapeake Energy Corp,CVX
+159,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/5/2015,DG,Corporate,Chesapeake Energy Corp,CVX
+160,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,6/13/2014,UP,Corporate,Chesapeake Energy Corp,CVX
+161,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,4/18/2013,HS,Corporate,Chesapeake Energy Corp,CVX
+162,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,"China Medical Technologies, Inc.",CHD
+163,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,6/23/2010,HS,Corporate,"China Medical Technologies, Inc.",CHD
+164,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/10/2010,HS,Corporate,Church & Dwight Co Inc,CIEN
+167,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/14/2017,WO,Corporate,Cimarex Energy Co,CNK
+168,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/18/2009,HS,Corporate,Cimarex Energy Co,CNK
+169,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Cintas Corp,CSCO
+170,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/6/2011,DG,Corporate,Cintas Corp,CSCO
+171,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,6/8/2010,HS,Corporate,Cintas Corp,CSCO
+174,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Electronic Arts Inc,EMC
+175,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/17/2012,HS,Corporate,Electronic Arts Inc,EMC
+176,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2009,HS,Corporate,Eli Lilly and Co,EMR
+177,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/8/2016,WO,Corporate,EMC Corp,ENB
+178,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,12/18/2009,HS,Corporate,EMC Corp,ENB
+183,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/1/2014,WO,Corporate,Enbridge Energy Partners LP,ENDP
+184,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/3/2010,HS,Corporate,Enbridge Energy Partners LP,ENDP
+187,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Endo International PLC,ENS
+188,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,3/22/2018,DG,Corporate,Endo International PLC,ENS
+189,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,5/20/2016,DG,Corporate,Endo International PLC,ENS
+190,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,12/6/2013,UP,Corporate,Endo International PLC,ENS
+191,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,7/1/2011,HS,Corporate,Endo International PLC,ENS
+197,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,EnerSys,ETR
+198,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/12/2010,HS,Corporate,EnerSys,ETR
+199,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/27/2015,WO,Corporate,Ensco PLC,EPD
+200,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/23/2011,DG,Corporate,Ensco PLC,EPD
+201,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/26/2010,HS,Corporate,Ensco PLC,EPD
+202,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Entergy Corp,EOG
+203,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,Entergy Corp,EOG
+206,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/19/2017,DG,Corporate,EOG Resources Inc,EFX
+207,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/18/2009,HS,Corporate,EOG Resources Inc,EFX
+208,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Equifax Inc,EQIX
+209,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/10/2010,HS,Corporate,Equifax Inc,EQIX
+214,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/15/2017,NW,Corporate,Equity Residential,ESS
+215,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Equity Residential,ESS
+216,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/20/2011,HS,Corporate,Equity Residential,ESS
+217,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/15/2017,HS,Corporate,Essex Property Trust Inc,EEFT
+218,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,The Estee Lauder Companies Inc,HSY
+219,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/13/2010,HS,Corporate,The Estee Lauder Companies Inc,HSY
+226,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Exelon Corp,EXPE
+227,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Exelon Corp,EXPE
+230,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,Express Scripts Holding Co,XOM
+231,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,4/16/2010,HS,Corporate,Express Scripts Holding Co,XOM
+232,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA+,2/17/2017,DG,Corporate,Exxon Mobil Corp,FDO
+233,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AAA,11/18/2009,HS,Corporate,Exxon Mobil Corp,FDO
+234,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/28/2014,WO,Corporate,Family Dollar Stores Inc,FRT
+235,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/21/2013,HS,Corporate,Family Dollar Stores Inc,FRT
+236,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/10/2017,NW,Corporate,Federal Realty Investment Trust,FDX
+237,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Federal Realty Investment Trust,FDX
+238,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/20/2011,HS,Corporate,Federal Realty Investment Trust,FDX
+249,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,FirstEnergy Corp,FMER
+250,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/10/2010,DG,Corporate,FirstEnergy Corp,FMER
+251,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,FirstEnergy Corp,FMER
+252,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Fluor Corp,FTI
+253,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/26/2010,HS,Corporate,Fluor Corp,FTI
+254,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/24/2017,WO,Corporate,FMC Technologies Inc,FL
+255,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/4/2013,HS,Corporate,FMC Technologies Inc,FL
+256,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Foot Locker Inc,F
+257,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/24/2010,HS,Corporate,Foot Locker Inc,F
+282,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/25/2013,WO,Corporate,FTI Consulting Inc,FULT
+283,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/28/2010,HS,Corporate,FTI Consulting Inc,FULT
+291,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Genco Shipping & Trading Ltd,GD
+292,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,11/16/2011,DG,Corporate,Genco Shipping & Trading Ltd,GD
+293,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,2/11/2011,DG,Corporate,Genco Shipping & Trading Ltd,GD
+294,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,8/9/2010,DG,Corporate,Genco Shipping & Trading Ltd,GD
+295,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,5/26/2010,HS,Corporate,Genco Shipping & Trading Ltd,GD
+296,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,General Dynamics Corp,GE
+297,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/13/2018,DG,Corporate,General Dynamics Corp,GE
+298,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/9/2016,UP,Corporate,General Dynamics Corp,GE
+299,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/19/2011,DG,Corporate,General Dynamics Corp,GE
+300,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,7/1/2010,HS,Corporate,General Dynamics Corp,GE
+301,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/10/2015,WO,Corporate,General Electric Co,GIS
+302,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,9/22/2010,HS,Corporate,General Electric Co,GIS
+303,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/28/2016,DG,Corporate,General Mills Inc,GM
+304,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/11/2010,HS,Corporate,General Mills Inc,GM
+305,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Gerdau SA,GILD
+306,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/9/2010,HS,Corporate,Gerdau SA,GILD
+307,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/3/2017,DG,Corporate,Gilead Sciences Inc,GSK
+308,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,12/18/2013,UP,Corporate,Gilead Sciences Inc,GSK
+309,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/22/2011,DG,Corporate,Gilead Sciences Inc,GSK
+310,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,6/4/2010,DG,Corporate,Gilead Sciences Inc,GSK
+311,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,4/8/2010,HS,Corporate,Gilead Sciences Inc,GSK
+318,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Kimberly-Clark Corp,KIM
+319,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/9/2012,DG,Corporate,Kimberly-Clark Corp,KIM
+320,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/10/2010,HS,Corporate,Kimberly-Clark Corp,KIM
+324,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/2/2014,WO,Corporate,Kinder Morgan Energy Partners LP,KND
+325,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/19/2010,HS,Corporate,Kinder Morgan Energy Partners LP,KND
+328,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/13/2011,WO,Corporate,Kinetic Concepts Inc,KKR
+329,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/15/2010,UP,Corporate,Kinetic Concepts Inc,KKR
+330,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/11/2010,HS,Corporate,Kinetic Concepts Inc,KKR
+333,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/5/2018,WO,Corporate,Kohl's Corp,LB
+334,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/17/2016,DG,Corporate,Kohl's Corp,LB
+335,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/20/2014,DG,Corporate,Kohl's Corp,LB
+336,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/19/2013,DG,Corporate,Kohl's Corp,LB
+337,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/19/2012,DG,Corporate,Kohl's Corp,LB
+338,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,3/22/2010,HS,Corporate,Kohl's Corp,LB
+339,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/5/2012,UP,Corporate,Mondelez International Inc,MON
+340,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/3/2010,HS,Corporate,Mondelez International Inc,MON
+341,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,The Kroger Co,MOS
+342,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/15/2010,HS,Corporate,The Kroger Co,MOS
+343,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/2/2014,WO,Corporate,L3 Technologies Inc,LH
+344,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/10/2011,DG,Corporate,L3 Technologies Inc,LH
+345,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/4/2010,HS,Corporate,L3 Technologies Inc,LH
+355,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/28/2017,UP,Corporate,Lear Corp,LEA
+356,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/10/2015,HS,Corporate,Lear Corp,LEA
+357,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/27/2018,UP,Corporate,Lennar Corp,LEN
+358,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,7/17/2016,UP,Corporate,Lennar Corp,LEN
+359,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,5/24/2010,HS,Corporate,Lennar Corp,LEN
+360,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Lexmark International Inc,LXK
+361,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/1/2010,HS,Corporate,Lexmark International Inc,LXK
+362,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Liberty Global PLC,LBTYA
+363,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,4/26/2010,HS,Corporate,Liberty Global PLC,LBTYA
+364,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/4/2017,HS,Corporate,Liberty Property Trust,LPT
+378,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Mack-Cali Realty Corp,M
+379,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,Mack-Cali Realty Corp,M
+383,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/27/2018,WO,Corporate,Marathon Oil Corp,MPC
+384,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/21/2017,DG,Corporate,Marathon Oil Corp,MPC
+385,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/7/2013,DG,Corporate,Marathon Oil Corp,MPC
+386,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Marathon Oil Corp,MPC
+387,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/1/2014,WO,Corporate,MarkWest Energy Partners LP,MAR
+388,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,9/23/2010,HS,Corporate,MarkWest Energy Partners LP,MAR
+392,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/20/2016,HS,Corporate,Martin Marietta Materials Inc,MAS
+399,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Massey Energy Co,MAT
+400,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,2/2/2011,UP,Corporate,Massey Energy Co,MAT
+401,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,6/7/2010,HS,Corporate,Massey Energy Co,MAT
+402,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,2/9/2018,DG,Corporate,Mattel Inc,MXIM
+403,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/3/2017,DG,Corporate,Mattel Inc,MXIM
+404,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/12/2017,DG,Corporate,Mattel Inc,MXIM
+405,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/6/2015,DG,Corporate,Mattel Inc,MXIM
+406,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/15/2012,HS,Corporate,Mattel Inc,MXIM
+409,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/19/2017,DG,Corporate,McCormick & Co Inc,MCD
+410,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,4/6/2010,HS,Corporate,McCormick & Co Inc,MCD
+411,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/11/2015,DG,Corporate,McDonald's Corp,MCK
+412,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,2/9/2010,HS,Corporate,McDonald's Corp,MCK
+415,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/16/2016,UP,Corporate,McKesson Corp,MJN
+416,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/12/2014,DG,Corporate,McKesson Corp,MJN
+417,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/28/2010,HS,Corporate,McKesson Corp,MJN
+425,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/4/2012,WO,Corporate,Medicis Pharmaceuticals Corp,MDT
+426,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/29/2010,HS,Corporate,Medicis Pharmaceuticals Corp,MDT
+427,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,9/7/2016,UP,Corporate,Medtronic PLC,MRK
+428,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/15/2014,DG,Corporate,Medtronic PLC,MRK
+429,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,6/25/2014,DG,Corporate,Medtronic PLC,MRK
+430,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,5/30/2013,UP,Corporate,Medtronic PLC,MRK
+431,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,2/8/2012,DG,Corporate,Medtronic PLC,MRK
+432,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,2/5/2010,HS,Corporate,Medtronic PLC,MRK
+437,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/23/2015,WO,Corporate,Mettler-Toledo International Inc,MGM
+438,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/23/2010,HS,Corporate,Mettler-Toledo International Inc,MGM
+439,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/11/2018,WO,Corporate,MGM Resorts International,MCHP
+440,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/28/2018,UP,Corporate,MGM Resorts International,MCHP
+441,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,6/15/2016,UP,Corporate,MGM Resorts International,MCHP
+442,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,8/22/2012,UP,Corporate,MGM Resorts International,MCHP
+443,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,6/11/2010,HS,Corporate,MGM Resorts International,MCHP
+444,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Microchip Technology Inc,MSFT
+445,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/1/2010,HS,Corporate,Microchip Technology Inc,MSFT
+454,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/27/2015,WO,Corporate,Mobile TeleSystems PJSC,MHK
+455,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,12/20/2010,HS,Corporate,Mobile TeleSystems PJSC,MHK
+459,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/14/2013,DG,Corporate,Molson Coors Brewing Co,MDLZ
+460,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/8/2010,HS,Corporate,Molson Coors Brewing Co,MDLZ
+466,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/7/2014,WO,Corporate,Moog Inc,MS
+467,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,10/22/2010,HS,Corporate,Moog Inc,MS
+482,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,POSCO,PKX
+483,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/14/2013,DG,Corporate,POSCO,PKX
+484,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/9/2010,HS,Corporate,POSCO,PKX
+485,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/22/2016,DG,Corporate,Nutrien Ltd,NUVA
+486,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/14/2013,DG,Corporate,Nutrien Ltd,NUVA
+487,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/1/2012,HS,Corporate,Nutrien Ltd,NUVA
+488,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,PPG Industries Inc,PPG
+489,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/5/2012,HS,Corporate,PPG Industries Inc,PPG
+492,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Praxair Inc,PX
+493,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/20/2015,DG,Corporate,Praxair Inc,PX
+494,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/1/2010,HS,Corporate,Praxair Inc,PX
+495,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/10/2015,WO,Corporate,Precision Castparts Corp,PCP
+496,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/10/2014,HS,Corporate,Precision Castparts Corp,PCP
+501,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2009,HS,Corporate,Procter & Gamble Co,PG
+510,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Public Storage,PSA
+511,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,6/20/2011,HS,Corporate,Public Storage,PSA
+514,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/15/2010,HS,Corporate,Quest Diagnostics Inc,DGX
+535,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Rayonier Inc,RTN
+536,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/26/2014,DG,Corporate,Rayonier Inc,RTN
+537,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Rayonier Inc,RTN
+546,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Regal Entertainment Group,REG
+547,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/26/2010,HS,Corporate,Regal Entertainment Group,REG
+556,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,REXAM PLC,RAI
+557,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/5/2012,UP,Corporate,REXAM PLC,RAI
+558,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,10/14/2010,HS,Corporate,REXAM PLC,RAI
+559,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/11/2017,WO,Corporate,Reynolds American Inc,RAD
+560,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/16/2010,HS,Corporate,Reynolds American Inc,RAD
+563,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,8/18/2010,UP,Corporate,Roche Holding AG,ROK
+564,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,6/4/2010,HS,Corporate,Roche Holding AG,ROK
+579,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/27/2015,WO,Corporate,Rowan Companies PLC,RY
+580,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/13/2010,HS,Corporate,Rowan Companies PLC,RY
+581,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/11/2018,WO,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+582,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/14/2017,UP,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+583,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,1/15/2016,UP,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+584,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/14/2014,UP,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+585,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,8/22/2012,UP,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+586,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,5/26/2010,HS,Corporate,Royal Caribbean Cruises Ltd,RDS.A
+590,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/7/2014,WO,Corporate,Safeway Inc,SWY
+591,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/22/2010,HS,Corporate,Safeway Inc,SWY
+598,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/18/2018,WO,Corporate,Sanofi SA,GCVRZ
+599,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,3/9/2011,DG,Corporate,Sanofi SA,GCVRZ
+600,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,2/19/2010,HS,Corporate,Sanofi SA,GCVRZ
+601,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,SAP SE,SAP
+602,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,9/8/2010,HS,Corporate,SAP SE,SAP
+611,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,SCANA Corp,SCG
+612,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,SCANA Corp,SCG
+613,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/14/2018,DG,Corporate,Schlumberger Ltd,SLB
+614,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,8/26/2010,HS,Corporate,Schlumberger Ltd,SLB
+615,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Scholastic Corp,SCHL
+616,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,Scholastic Corp,SCHL
+619,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Sealed Air Corp,SEE
+620,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/9/2011,DG,Corporate,Sealed Air Corp,SEE
+621,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/28/2010,HS,Corporate,Sealed Air Corp,SEE
+622,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/29/2014,WO,Corporate,Sears Holdings Corp,SHLD
+623,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,2/3/2012,DG,Corporate,Sears Holdings Corp,SHLD
+624,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,7/15/2011,DG,Corporate,Sears Holdings Corp,SHLD
+625,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,4/11/2011,DG,Corporate,Sears Holdings Corp,SHLD
+626,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/22/2010,HS,Corporate,Sears Holdings Corp,SHLD
+627,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Sempra Energy,SRE
+628,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/13/2013,HS,Corporate,Sempra Energy,SRE
+629,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/18/2013,WO,Corporate,Senior Housing Properties Trust,SNH
+630,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/20/2011,HS,Corporate,Senior Housing Properties Trust,SNH
+631,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Service Corp International,SCI
+632,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/13/2010,HS,Corporate,Service Corp International,SCI
+638,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/6/2018,WO,Corporate,Shire PLC,SHPG
+639,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/16/2016,NW,Corporate,Shire PLC,SHPG
+640,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/11/2014,WO,Corporate,Shire PLC,SHPG
+641,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/22/2014,DG,Corporate,Shire PLC,SHPG
+642,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/25/2011,NW,Corporate,Shire PLC,SHPG
+643,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2011,WO,Corporate,Shire PLC,SHPG
+644,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,6/4/2010,HS,Corporate,Shire PLC,SHPG
+649,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Silgan Holdings Inc,SLGN
+650,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,7/13/2011,UP,Corporate,Silgan Holdings Inc,SLGN
+651,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/11/2011,NW,Corporate,Silgan Holdings Inc,SLGN
+652,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/13/2011,WO,Corporate,Silgan Holdings Inc,SLGN
+653,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/4/2011,DG,Corporate,Silgan Holdings Inc,SLGN
+654,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/12/2010,HS,Corporate,Silgan Holdings Inc,SLGN
+655,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Simon Property Group Inc,SPG
+656,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,Simon Property Group Inc,SPG
+657,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/30/2012,WO,Corporate,Sirius XM Holdings Inc,SIRI
+658,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,7/16/2010,HS,Corporate,Sirius XM Holdings Inc,SIRI
+659,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Sonic Automotive Inc,SAH
+660,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,12/27/2017,DG,Corporate,Sonic Automotive Inc,SAH
+661,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/16/2013,UP,Corporate,Sonic Automotive Inc,SAH
+662,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/31/2011,UP,Corporate,Sonic Automotive Inc,SAH
+663,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,6/15/2010,HS,Corporate,Sonic Automotive Inc,SAH
+664,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Sonoco Products Co,SON
+665,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Sonoco Products Co,SON
+666,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Southern Co,SO
+667,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/25/2011,DG,Corporate,Southern Co,SO
+668,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/13/2010,HS,Corporate,Southern Co,SO
+674,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/24/2016,UP,Corporate,Southwest Airlines Co,LUV
+675,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/26/2015,UP,Corporate,Southwest Airlines Co,LUV
+676,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/5/2010,HS,Corporate,Southwest Airlines Co,LUV
+677,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,8/16/2018,DG,Corporate,3M Co,MMM
+678,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,6/18/2014,DG,Corporate,3M Co,MMM
+679,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,5/26/2010,HS,Corporate,3M Co,MMM
+683,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,2/28/2018,UP,Corporate,Abbott Laboratories,ABT
+684,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/3/2017,DG,Corporate,Abbott Laboratories,ABT
+685,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/9/2016,DG,Corporate,Abbott Laboratories,ABT
+686,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/19/2012,DG,Corporate,Abbott Laboratories,ABT
+687,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA+,8/18/2010,UP,Corporate,Abbott Laboratories,ABT
+688,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2009,HS,Corporate,Abbott Laboratories,ABT
+689,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/25/2014,WO,Corporate,Actuant Corp,ATU
+690,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/26/2010,HS,Corporate,Actuant Corp,ATU
+697,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/11/2018,WO,Corporate,Advanced Micro Devices Inc,AMD
+698,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,11/27/2018,UP,Corporate,Advanced Micro Devices Inc,AMD
+699,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,11/28/2016,UP,Corporate,Advanced Micro Devices Inc,AMD
+700,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,10/29/2015,DG,Corporate,Advanced Micro Devices Inc,AMD
+701,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,10/26/2012,DG,Corporate,Advanced Micro Devices Inc,AMD
+702,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/12/2010,HS,Corporate,Advanced Micro Devices Inc,AMD
+705,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Affymetrix Inc,AFFX
+706,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,4/20/2010,HS,Corporate,Affymetrix Inc,AFFX
+707,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,AGCO Corp,AGCO
+708,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/1/2016,DG,Corporate,AGCO Corp,AGCO
+709,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/9/2015,UP,Corporate,AGCO Corp,AGCO
+710,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/17/2011,DG,Corporate,AGCO Corp,AGCO
+711,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/26/2010,HS,Corporate,AGCO Corp,AGCO
+712,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/26/2013,HS,Corporate,Agilent Technologies Inc,A
+713,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,AGL Resources Inc,GAS
+714,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/22/2010,HS,Corporate,AGL Resources Inc,GAS
+715,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/13/2018,WO,Corporate,Agrium Inc,AGU
+716,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/21/2013,HS,Corporate,Agrium Inc,AGU
+719,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/14/2016,WO,Corporate,Airgas Inc,ARG
+720,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/9/2013,UP,Corporate,Airgas Inc,ARG
+721,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/1/2010,HS,Corporate,Airgas Inc,ARG
+722,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,AK Steel Holding Corp,AKS
+723,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,1/15/2014,DG,Corporate,AK Steel Holding Corp,AKS
+724,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,11/28/2011,DG,Corporate,AK Steel Holding Corp,AKS
+725,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,12/29/2010,HS,Corporate,AK Steel Holding Corp,AKS
+726,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Akamai Technologies Inc,AKAM
+727,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/16/2010,HS,Corporate,Akamai Technologies Inc,AKAM
+728,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/14/2017,WO,Corporate,Alcoa Inc,AA
+729,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/2/2010,HS,Corporate,Alcoa Inc,AA
+730,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/26/2018,NW,Corporate,Alexandria Real Estate Equities Inc,ARE
+731,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Alexandria Real Estate Equities Inc,ARE
+732,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,12/20/2010,HS,Corporate,Alexandria Real Estate Equities Inc,ARE
+733,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Alexion Pharmaceuticals Inc,ALXN
+734,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/3/2010,HS,Corporate,Alexion Pharmaceuticals Inc,ALXN
+735,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/17/2015,WO,Corporate,Allergan Inc,AGN
+736,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/12/2014,DG,Corporate,Allergan Inc,AGN
+737,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,4/22/2014,DG,Corporate,Allergan Inc,AGN
+738,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/22/2010,HS,Corporate,Allergan Inc,AGN
+739,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Alliant Energy Corp,LNT
+740,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/16/2011,HS,Corporate,Alliant Energy Corp,LNT
+743,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/30/2016,UP,Corporate,Altria Group Inc,MO
+744,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/15/2010,HS,Corporate,Altria Group Inc,MO
+745,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/21/2017,UP,Corporate,Amazon.com Inc,AMZN
+746,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/12/2014,DG,Corporate,Amazon.com Inc,AMZN
+747,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/26/2013,HS,Corporate,Amazon.com Inc,AMZN
+748,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/4/2017,HS,Corporate,Prologis Inc,PLD
+751,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Ameren Corp,AEE
+752,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/8/2010,HS,Corporate,Ameren Corp,AEE
+753,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,American Electric Power Co Inc,AEP
+754,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,American Electric Power Co Inc,AEP
+755,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2018,WO,Corporate,USG Corp,USG
+756,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/27/2016,UP,Corporate,USG Corp,USG
+757,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/25/2014,UP,Corporate,USG Corp,USG
+758,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,12/4/2013,UP,Corporate,USG Corp,USG
+759,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,5/11/2012,UP,Corporate,USG Corp,USG
+760,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,10/13/2011,DG,Corporate,USG Corp,USG
+761,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,12/1/2010,HS,Corporate,USG Corp,USG
+762,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/22/2010,HS,Corporate,Valeant Pharmaceuticals International,VRX
+763,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/27/2013,UP,Corporate,Valero Energy Corp,VLO
+764,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/15/2010,HS,Corporate,Valero Energy Corp,VLO
+765,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/20/2018,WO,Corporate,Windstream Holdings Inc,WIN
+766,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,7/19/2018,DG,Corporate,Windstream Holdings Inc,WIN
+767,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,9/15/2015,DG,Corporate,Windstream Holdings Inc,WIN
+768,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,3/30/2012,DG,Corporate,Windstream Holdings Inc,WIN
+769,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,Windstream Holdings Inc,WIN
+772,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Ventas Inc,VTR
+773,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,Ventas Inc,VTR
+776,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/2/2016,WO,Corporate,VeriSign Inc,VRSN
+777,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/8/2010,NW,Corporate,VeriSign Inc,VRSN
+778,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/21/2010,WO,Corporate,VeriSign Inc,VRSN
+779,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/23/2010,HS,Corporate,VeriSign Inc,VRSN
+780,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/5/2013,DG,Corporate,Verizon Communications Inc,VZ
+781,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2009,HS,Corporate,Verizon Communications Inc,VZ
+782,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/18/2013,WO,Corporate,Vertex Pharmaceuticals Inc,VRTX
+783,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/29/2012,UP,Corporate,Vertex Pharmaceuticals Inc,VRTX
+784,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,5/25/2011,UP,Corporate,Vertex Pharmaceuticals Inc,VRTX
+785,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,9/30/2010,HS,Corporate,Vertex Pharmaceuticals Inc,VRTX
+788,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/19/2015,DG,Corporate,Viacom Inc,VIA
+789,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/6/2013,DG,Corporate,Viacom Inc,VIA
+790,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2009,HS,Corporate,Viacom Inc,VIA
+793,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/15/2017,WO,Corporate,Vodafone Group PLC,VOD
+794,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/24/2016,DG,Corporate,Vodafone Group PLC,VOD
+795,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/20/2010,HS,Corporate,Vodafone Group PLC,VOD
+798,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Vornado Realty Trust,VNO
+799,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,Vornado Realty Trust,VNO
+800,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/14/2017,UP,Corporate,Vulcan Materials Co,VMC
+801,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/15/2016,UP,Corporate,Vulcan Materials Co,VMC
+802,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,11/10/2010,HS,Corporate,Vulcan Materials Co,VMC
+803,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,Walgreens Boots Alliance Inc,WBA
+804,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/30/2017,UP,Corporate,Walgreens Boots Alliance Inc,WBA
+805,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/6/2013,DG,Corporate,Walgreens Boots Alliance Inc,WBA
+806,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/29/2012,DG,Corporate,Walgreens Boots Alliance Inc,WBA
+807,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/22/2011,DG,Corporate,Walgreens Boots Alliance Inc,WBA
+808,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/10/2010,HS,Corporate,Walgreens Boots Alliance Inc,WBA
+811,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/18/2009,HS,Corporate,Walt Disney Co,DIS
+815,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/16/2018,UP,Corporate,Waste Management Inc,WM
+816,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/18/2009,HS,Corporate,Waste Management Inc,WM
+817,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/19/2018,UP,Corporate,Allergan PLC,AGN
+818,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/12/2014,DG,Corporate,Allergan PLC,AGN
+819,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/12/2014,DG,Corporate,Allergan PLC,AGN
+820,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/15/2012,DG,Corporate,Allergan PLC,AGN
+821,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/26/2012,UP,Corporate,Allergan PLC,AGN
+822,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/10/2011,UP,Corporate,Allergan PLC,AGN
+823,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/3/2010,HS,Corporate,Allergan PLC,AGN
+832,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/31/2017,NW,Corporate,Weingarten Realty Investors,WRI
+833,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/18/2013,WO,Corporate,Weingarten Realty Investors,WRI
+834,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/20/2011,HS,Corporate,Weingarten Realty Investors,WRI
+835,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/22/2018,UP,Corporate,WESCO International Inc,WCC
+836,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/23/2016,DG,Corporate,WESCO International Inc,WCC
+837,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/16/2012,DG,Corporate,WESCO International Inc,WCC
+838,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/13/2010,HS,Corporate,WESCO International Inc,WCC
+841,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/14/2017,WO,Corporate,Western Refining Inc,WNR
+842,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/27/2013,UP,Corporate,Western Refining Inc,WNR
+843,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,11/18/2009,HS,Corporate,Western Refining Inc,WNR
+844,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Weyerhaeuser Co,WY
+845,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/18/2014,UP,Corporate,Weyerhaeuser Co,WY
+846,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,2/9/2010,HS,Corporate,Weyerhaeuser Co,WY
+847,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,WGL Holdings Inc,WGL
+848,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/8/2010,HS,Corporate,WGL Holdings Inc,WGL
+853,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/17/2014,WO,Corporate,Worthington Industries Inc,WOR
+854,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,1/11/2011,HS,Corporate,Worthington Industries Inc,WOR
+855,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Wynn Resorts Ltd,WYNN
+856,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,4/12/2016,DG,Corporate,Wynn Resorts Ltd,WYNN
+857,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/22/2012,UP,Corporate,Wynn Resorts Ltd,WYNN
+858,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/11/2010,HS,Corporate,Wynn Resorts Ltd,WYNN
+859,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Xcel Energy Inc,XEL
+860,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Xcel Energy Inc,XEL
+861,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/21/2018,WO,Corporate,Xerox Corp,XRX
+862,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/26/2010,HS,Corporate,Xerox Corp,XRX
+863,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/1/2010,HS,Corporate,Xilinx Inc,XLNX
+881,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/23/2014,WO,Corporate,AmeriGas Partners LP,APU
+882,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,10/22/2010,HS,Corporate,AmeriGas Partners LP,APU
+883,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/16/2016,UP,Corporate,AmerisourceBergen Corp,ABC
+884,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/18/2015,DG,Corporate,AmerisourceBergen Corp,ABC
+885,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/28/2010,HS,Corporate,AmerisourceBergen Corp,ABC
+886,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/19/2013,DG,Corporate,Amgen Inc,AMGN
+887,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,4/1/2013,DG,Corporate,Amgen Inc,AMGN
+888,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,7/7/2011,DG,Corporate,Amgen Inc,AMGN
+889,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,2/5/2010,HS,Corporate,Amgen Inc,AMGN
+890,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/14/2018,WO,Corporate,Amphenol Corp,APH
+891,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/25/2014,DG,Corporate,Amphenol Corp,APH
+892,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/6/2010,HS,Corporate,Amphenol Corp,APH
+893,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WD,11/30/2011,WD,Corporate,American Airlines Group Inc,AAL
+894,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,D,11/29/2011,DG,Corporate,American Airlines Group Inc,AAL
+895,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CC,11/28/2011,DG,Corporate,American Airlines Group Inc,AAL
+896,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,3/14/2011,DG,Corporate,American Airlines Group Inc,AAL
+897,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,4/26/2010,HS,Corporate,American Airlines Group Inc,AAL
+898,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/30/2018,UP,Corporate,Anadarko Petroleum Corp,APC
+899,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/1/2016,DG,Corporate,Anadarko Petroleum Corp,APC
+900,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/21/2014,UP,Corporate,Anadarko Petroleum Corp,APC
+901,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,Anadarko Petroleum Corp,APC
+902,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/7/2017,DG,Corporate,Analog Devices Inc,ADI
+903,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,8/12/2010,DG,Corporate,Analog Devices Inc,ADI
+904,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,3/31/2010,HS,Corporate,Analog Devices Inc,ADI
+912,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/21/2018,UP,Corporate,Anixter International Inc,AXE
+913,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/23/2016,DG,Corporate,Anixter International Inc,AXE
+914,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/29/2010,HS,Corporate,Anixter International Inc,AXE
+915,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/5/2016,DG,Corporate,Apache Corp,APA
+916,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/2/2013,DG,Corporate,Apache Corp,APA
+917,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/18/2009,HS,Corporate,Apache Corp,APA
+920,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/26/2013,HS,Corporate,Apple Inc,AAPL
+921,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,4/22/2016,DG,Corporate,Applied Materials Inc,AMAT
+922,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,9/1/2010,HS,Corporate,Applied Materials Inc,AMAT
+933,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/12/2016,WO,Corporate,Arrow Electronics Inc,ARW
+934,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/29/2010,HS,Corporate,Arrow Electronics Inc,ARW
+937,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Asbury Automotive Group Inc,ABG
+938,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,12/18/2014,UP,Corporate,Asbury Automotive Group Inc,ABG
+939,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,5/17/2013,UP,Corporate,Asbury Automotive Group Inc,ABG
+940,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/31/2011,UP,Corporate,Asbury Automotive Group Inc,ABG
+941,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,6/15/2010,HS,Corporate,Asbury Automotive Group Inc,ABG
+946,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/15/2018,DG,Corporate,AstraZeneca PLC,AZN
+947,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,2/16/2017,DG,Corporate,AstraZeneca PLC,AZN
+948,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/3/2015,DG,Corporate,AstraZeneca PLC,AZN
+949,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/1/2013,DG,Corporate,AstraZeneca PLC,AZN
+950,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,2/19/2010,HS,Corporate,AstraZeneca PLC,AZN
+951,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/31/2017,DG,Corporate,AT&T Inc,T
+952,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/11/2015,DG,Corporate,AT&T Inc,T
+953,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2009,HS,Corporate,AT&T Inc,T
+954,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/23/2014,WO,Corporate,Atmos Energy Corp,ATO
+955,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/30/2010,HS,Corporate,Atmos Energy Corp,ATO
+956,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Automatic Data Processing Inc,ADP
+957,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,6/8/2010,HS,Corporate,Automatic Data Processing Inc,ADP
+958,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/12/2018,WO,Corporate,AutoNation Inc,AN
+959,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/31/2011,UP,Corporate,AutoNation Inc,AN
+960,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,6/15/2010,HS,Corporate,AutoNation Inc,AN
+961,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/3/2017,UP,Corporate,AutoZone Inc,AZO
+962,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/28/2010,HS,Corporate,AutoZone Inc,AZO
+966,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Avery Dennison Corp,AVY
+967,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/23/2010,UP,Corporate,Avery Dennison Corp,AVY
+968,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/18/2009,HS,Corporate,Avery Dennison Corp,AVY
+969,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/12/2016,WO,Corporate,Avnet Inc,AVT
+970,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/29/2010,HS,Corporate,Avnet Inc,AVT
+971,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/13/2015,WO,Corporate,Avon Products Inc,AVP
+972,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/21/2012,DG,Corporate,Avon Products Inc,AVP
+973,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/6/2011,DG,Corporate,Avon Products Inc,AVP
+974,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/10/2010,HS,Corporate,Avon Products Inc,AVP
+986,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/16/2014,WO,Corporate,Cleveland-Cliffs Inc,CLX
+987,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,3/15/2013,DG,Corporate,Cleveland-Cliffs Inc,CLX
+988,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/10/2011,DG,Corporate,Cleveland-Cliffs Inc,CLX
+989,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/11/2010,HS,Corporate,Cleveland-Cliffs Inc,CLX
+990,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/6/2017,UP,Corporate,Clorox Co,CLD
+991,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/13/2010,HS,Corporate,Clorox Co,CLD
+1001,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Coca-Cola European Partners PLC,CL
+1002,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/19/2010,HS,Corporate,Coca-Cola European Partners PLC,CL
+1005,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/18/2018,DG,Corporate,Comcast Corp,CMA
+1006,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/10/2012,UP,Corporate,Comcast Corp,CMA
+1007,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Comcast Corp,CMA
+1010,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/9/2015,WO,Corporate,Ambev SA,ABEV
+1011,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/31/2011,HS,Corporate,Ambev SA,ABEV
+1025,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,DXC Technology Co,DYN
+1026,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/14/2011,DG,Corporate,DXC Technology Co,DYN
+1027,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/6/2011,DG,Corporate,DXC Technology Co,DYN
+1028,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/28/2010,HS,Corporate,DXC Technology Co,DYN
+1029,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Conagra Brands Inc,CXO
+1030,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/13/2017,UP,Corporate,Conagra Brands Inc,CXO
+1031,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/21/2013,DG,Corporate,Conagra Brands Inc,CXO
+1032,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,1/11/2010,HS,Corporate,Conagra Brands Inc,CXO
+1033,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,4/24/2018,UP,Corporate,ConocoPhillips,ED
+1034,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/17/2016,DG,Corporate,ConocoPhillips,ED
+1035,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/18/2009,HS,Corporate,ConocoPhillips,ED
+1041,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Consolidated Edison Inc,STZ
+1042,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/1/2010,HS,Corporate,Consolidated Edison Inc,STZ
+1043,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/24/2018,UP,Corporate,Constellation Brands Inc,CLR
+1044,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/13/2016,UP,Corporate,Constellation Brands Inc,CLR
+1045,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,4/8/2010,HS,Corporate,Constellation Brands Inc,CLR
+1050,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/27/2015,WO,Corporate,Cameron International Corp,CPB
+1051,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/26/2010,HS,Corporate,Cameron International Corp,CPB
+1057,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Copano Energy LLC,GLW
+1058,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/23/2010,HS,Corporate,Copano Energy LLC,GLW
+1059,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Corning Inc,COST
+1060,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/30/2010,HS,Corporate,Corning Inc,COST
+1061,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Corporate Office Properties Trust,CVA
+1062,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/20/2011,HS,Corporate,Corporate Office Properties Trust,CVA
+1071,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/4/2019,WO,Corporate,Crown Castle International Corp,CCK
+1072,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/7/2010,HS,Corporate,Crown Castle International Corp,CCK
+1073,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Crown Holdings Inc,CSGS
+1074,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/1/2010,HS,Corporate,Crown Holdings Inc,CSGS
+1075,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/31/2013,WO,Corporate,CSG Systems International Inc,CSX
+1076,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/28/2010,HS,Corporate,CSG Systems International Inc,CSX
+1077,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/22/2010,UP,Corporate,CSX Corp,CBST
+1078,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,CSX Corp,CBST
+1079,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/8/2014,WO,Corporate,Cubist Pharmaceuticals Inc,CFR
+1080,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/10/2010,HS,Corporate,Cubist Pharmaceuticals Inc,CFR
+1081,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Cummins Inc,CVS
+1082,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/9/2015,UP,Corporate,Cummins Inc,CVS
+1083,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/16/2013,UP,Corporate,Cummins Inc,CVS
+1084,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/25/2010,HS,Corporate,Cummins Inc,CVS
+1089,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,D.R. Horton Inc,DHR
+1090,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/17/2016,UP,Corporate,D.R. Horton Inc,DHR
+1091,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,5/24/2010,HS,Corporate,D.R. Horton Inc,DHR
+1102,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,DaVita Inc,DCT
+1103,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,4/13/2016,UP,Corporate,DaVita Inc,DCT
+1104,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,10/14/2010,HS,Corporate,DaVita Inc,DCT
+1105,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,DCP Midstream LP,DF
+1106,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/23/2010,HS,Corporate,DCP Midstream LP,DF
+1110,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/26/2010,HS,Corporate,Deere & Co,DAL
+1113,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/8/2013,WO,Corporate,Delta Air Lines Inc,DB
+1114,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,3/14/2011,DG,Corporate,Delta Air Lines Inc,DB
+1115,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,4/26/2010,HS,Corporate,Delta Air Lines Inc,DB
+1118,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2015,WO,Corporate,Deutsche Telekom AG,DEO
+1119,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/5/2010,HS,Corporate,Deutsche Telekom AG,DEO
+1120,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/20/2017,WO,Corporate,Devon Energy Corp,DO
+1121,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,4/9/2015,DG,Corporate,Devon Energy Corp,DO
+1122,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Devon Energy Corp,DO
+1123,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/19/2018,WO,Corporate,Diageo PLC,DRH
+1124,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,4/8/2010,HS,Corporate,Diageo PLC,DRH
+1125,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/27/2015,WO,Corporate,Diamond Offshore Drilling Inc,DTV
+1126,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/4/2011,DG,Corporate,Diamond Offshore Drilling Inc,DTV
+1127,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/19/2010,HS,Corporate,Diamond Offshore Drilling Inc,DTV
+1132,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/23/2018,DG,Corporate,Discovery Inc,DG
+1133,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/15/2012,DG,Corporate,Discovery Inc,DG
+1134,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/16/2010,HS,Corporate,Discovery Inc,DG
+1135,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Dollar General Corp,DOV
+1136,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/28/2016,UP,Corporate,Dollar General Corp,DOV
+1137,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/21/2013,UP,Corporate,Dollar General Corp,DOV
+1138,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,6/11/2010,HS,Corporate,Dollar General Corp,DOV
+1147,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,DPL Inc,DST
+1148,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/16/2010,HS,Corporate,DPL Inc,DST
+1149,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/31/2013,WO,Corporate,DST Systems Inc,DTE
+1150,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/2/2010,HS,Corporate,DST Systems Inc,DTE
+1151,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,DTE Energy Co,DUK
+1152,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/1/2010,HS,Corporate,DTE Energy Co,DUK
+1153,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Duke Energy Corp,DRE
+1154,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/1/2010,HS,Corporate,Duke Energy Corp,DRE
+1155,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/4/2017,HS,Corporate,Duke Realty Corp,DNB
+1160,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2017,WO,Corporate,E.I. du Pont de Nemours & Co,EMN
+1161,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/15/2013,UP,Corporate,E.I. du Pont de Nemours & Co,EMN
+1162,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/2/2011,DG,Corporate,E.I. du Pont de Nemours & Co,EMN
+1163,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/3/2010,HS,Corporate,E.I. du Pont de Nemours & Co,EMN
+1166,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/19/2014,HS,Corporate,Eastman Chemical Co,EV
+1167,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Eastman Kodak Co,EBAY
+1168,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,9/1/2010,HS,Corporate,Eastman Kodak Co,EBAY
+1169,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Eaton Corp PLC,ECL
+1170,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/27/2012,DG,Corporate,Eaton Corp PLC,ECL
+1171,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/4/2010,HS,Corporate,Eaton Corp PLC,ECL
+1172,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/27/2015,DG,Corporate,eBay Inc,EIX
+1173,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/5/2010,HS,Corporate,eBay Inc,EIX
+1178,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/6/2018,WO,Corporate,Ecolab Inc,EW
+1179,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/19/2012,HS,Corporate,Ecolab Inc,EW
+1183,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Edwards Lifesciences Corp,EA
+1184,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/12/2014,UP,Corporate,Edwards Lifesciences Corp,EA
+1185,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/9/2013,HS,Corporate,Edwards Lifesciences Corp,EA
+1186,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/2/2013,WO,Corporate,Elan Corp PLC,LLY
+1187,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,8/22/2012,UP,Corporate,Elan Corp PLC,LLY
+1188,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,5/25/2011,NW,Corporate,Elan Corp PLC,LLY
+1189,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/16/2011,WO,Corporate,Elan Corp PLC,LLY
+1190,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,8/18/2010,DG,Corporate,Elan Corp PLC,LLY
+1191,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,6/4/2010,HS,Corporate,Elan Corp PLC,LLY
+1192,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Granite Construction Inc,GXP
+1193,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/23/2010,HS,Corporate,Granite Construction Inc,GXP
+1199,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Danone SA,DRI
+1200,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/14/2011,HS,Corporate,Danone SA,DRI
+1203,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Gymboree Corporation,HK
+1204,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,11/15/2010,HS,Corporate,Gymboree Corporation,HK
+1205,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,HJ Heinz Co,HFC
+1206,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,4/6/2010,HS,Corporate,HJ Heinz Co,HFC
+1207,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/24/2016,DG,Corporate,Halliburton Co,HBI
+1208,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/4/2012,UP,Corporate,Halliburton Co,HBI
+1209,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/9/2010,HS,Corporate,Halliburton Co,HBI
+1210,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/29/2015,WO,Corporate,Harley-Davidson Inc,HAS
+1211,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/24/2010,HS,Corporate,Harley-Davidson Inc,HAS
+1213,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,HCA Healthcare Inc,HCP
+1214,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,4/16/2018,UP,Corporate,HCA Healthcare Inc,HCP
+1215,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,4/13/2016,UP,Corporate,HCA Healthcare Inc,HCP
+1216,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/12/2012,HS,Corporate,HCA Healthcare Inc,HCP
+1217,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,HCP Inc,HNT
+1218,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/20/2011,HS,Corporate,HCP Inc,HNT
+1224,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Heineken NV,HES
+1225,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/15/2010,HS,Corporate,Heineken NV,HES
+1228,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,HP Inc,HSBC
+1229,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/8/2015,DG,Corporate,HP Inc,HSBC
+1230,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/19/2012,DG,Corporate,HP Inc,HSBC
+1231,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/1/2011,DG,Corporate,HP Inc,HSBC
+1232,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,12/18/2009,HS,Corporate,HP Inc,HSBC
+1234,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,HollyFrontier Corp,HOLX
+1235,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/27/2013,UP,Corporate,HollyFrontier Corp,HOLX
+1236,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/26/2010,HS,Corporate,HollyFrontier Corp,HOLX
+1237,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Hologic Inc,HMC
+1238,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/26/2015,UP,Corporate,Hologic Inc,HMC
+1239,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,8/31/2012,DG,Corporate,Hologic Inc,HMC
+1240,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/12/2010,HS,Corporate,Hologic Inc,HMC
+1243,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Honda Motor Co Ltd,HON
+1244,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/15/2012,DG,Corporate,Honda Motor Co Ltd,HON
+1245,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,9/9/2010,HS,Corporate,Honda Motor Co Ltd,HON
+1246,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/14/2011,UP,Corporate,Honeywell International Inc,HRL
+1247,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2009,HS,Corporate,Honeywell International Inc,HRL
+1248,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Hormel Foods Corp,HSP
+1249,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,2/4/2016,DG,Corporate,Hormel Foods Corp,HSP
+1250,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,3/9/2010,HS,Corporate,Hormel Foods Corp,HSP
+1251,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/4/2015,WO,Corporate,Hospira Inc,HPT$D
+1252,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,2/10/2015,UP,Corporate,Hospira Inc,HPT$D
+1253,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/19/2014,UP,Corporate,Hospira Inc,HPT$D
+1254,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/30/2013,DG,Corporate,Hospira Inc,HPT$D
+1255,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/4/2012,DG,Corporate,Hospira Inc,HPT$D
+1256,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/1/2010,HS,Corporate,Hospira Inc,HPT$D
+1257,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Hospitality Properties Trust,HST
+1258,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/20/2011,HS,Corporate,Hospitality Properties Trust,HST
+1263,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/3/2012,WO,Corporate,Human Genome Sciences Inc,HBAN
+1264,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,3/13/2012,DG,Corporate,Human Genome Sciences Inc,HBAN
+1265,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,4/13/2011,UP,Corporate,Human Genome Sciences Inc,HBAN
+1266,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,5/3/2010,HS,Corporate,Human Genome Sciences Inc,HBAN
+1267,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,12/29/2015,DG,Corporate,International Business Machines Corp,IGT
+1268,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,7/28/2010,HS,Corporate,International Business Machines Corp,IGT
+1269,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2018,WO,Corporate,Illinois Tool Works Inc,ILMN
+1270,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/16/2012,DG,Corporate,Illinois Tool Works Inc,ILMN
+1271,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,10/13/2011,DG,Corporate,Illinois Tool Works Inc,ILMN
+1272,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,6/4/2010,HS,Corporate,Illinois Tool Works Inc,ILMN
+1276,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/17/2017,UP,Corporate,Ingersoll-Rand PLC,IM
+1277,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/6/2013,DG,Corporate,Ingersoll-Rand PLC,IM
+1278,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/27/2011,UP,Corporate,Ingersoll-Rand PLC,IM
+1279,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/25/2010,HS,Corporate,Ingersoll-Rand PLC,IM
+1282,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/21/2016,DG,Corporate,Intel Corp,ICE
+1283,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,8/12/2010,HS,Corporate,Intel Corp,ICE
+1284,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/25/2014,WO,Corporate,InterMune Inc,IBM
+1285,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,4/25/2012,HS,Corporate,InterMune Inc,IBM
+1286,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/17/2014,WO,Corporate,International Game Technology,IP
+1287,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/15/2010,HS,Corporate,International Game Technology,IP
+1288,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,International Paper Co,ISCA
+1289,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,International Paper Co,ISCA
+1297,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Alere Inc,ALR
+1298,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,9/15/2010,HS,Corporate,Alere Inc,ALR
+1313,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Johnson Controls International PLC,JOY
+1314,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/11/2012,DG,Corporate,Johnson Controls International PLC,JOY
+1315,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/23/2010,HS,Corporate,Johnson Controls International PLC,JOY
+1322,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/19/2018,UP,Corporate,Kansas City Southern,KBH
+1323,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/6/2014,UP,Corporate,Kansas City Southern,KBH
+1324,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/8/2012,UP,Corporate,Kansas City Southern,KBH
+1325,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,4/29/2011,UP,Corporate,Kansas City Southern,KBH
+1326,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/22/2010,UP,Corporate,Kansas City Southern,KBH
+1327,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,11/18/2009,HS,Corporate,Kansas City Southern,KBH
+1337,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,National Grid PLC,NOV
+1338,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/30/2010,HS,Corporate,National Grid PLC,NOV
+1339,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/11/2016,DG,Corporate,National Oilwell Varco Inc,NNN
+1340,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,8/13/2010,HS,Corporate,National Oilwell Varco Inc,NNN
+1343,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Nationwide Health Properties Inc,NM
+1344,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/20/2010,HS,Corporate,Nationwide Health Properties Inc,NM
+1345,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Navios Maritime Holdings Inc,NAV
+1346,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,11/11/2011,DG,Corporate,Navios Maritime Holdings Inc,NAV
+1347,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,2/11/2011,DG,Corporate,Navios Maritime Holdings Inc,NAV
+1348,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,8/10/2010,HS,Corporate,Navios Maritime Holdings Inc,NAV
+1349,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/5/2015,WO,Corporate,Navistar International Corp,NTAP
+1350,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,9/20/2012,DG,Corporate,Navistar International Corp,NTAP
+1351,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,6/28/2012,DG,Corporate,Navistar International Corp,NTAP
+1352,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/20/2010,HS,Corporate,Navistar International Corp,NTAP
+1355,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,NetApp Inc,NFLX
+1356,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/21/2016,DG,Corporate,NetApp Inc,NFLX
+1357,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,4/26/2010,HS,Corporate,NetApp Inc,NFLX
+1358,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,New Jersey Resources Corp,NYT
+1359,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/16/2010,HS,Corporate,New Jersey Resources Corp,NYT
+1362,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Newell Brands Inc,NEM
+1363,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/10/2010,HS,Corporate,Newell Brands Inc,NEM
+1364,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/29/2012,DG,Corporate,Newmont Mining Corp,NEE
+1365,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/4/2010,HS,Corporate,Newmont Mining Corp,NEE
+1368,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Nicor Inc,NKE
+1369,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,9/30/2010,HS,Corporate,Nicor Inc,NKE
+1370,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/5/2018,WO,Corporate,Nike Inc,NI
+1371,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,6/11/2010,HS,Corporate,Nike Inc,NI
+1374,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Nissan Motor Co Ltd,NBL
+1375,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/9/2010,HS,Corporate,Nissan Motor Co Ltd,NBL
+1387,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/4/2015,DG,Corporate,Nordstrom Inc,NSC
+1388,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/27/2010,HS,Corporate,Nordstrom Inc,NSC
+1389,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/22/2010,UP,Corporate,Norfolk Southern Corp,NTRS
+1390,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,Norfolk Southern Corp,NTRS
+1398,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,5/7/2014,DG,Corporate,Novartis AG,NRG
+1399,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA+,6/4/2010,HS,Corporate,Novartis AG,NRG
+1402,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/28/2014,WO,Corporate,Nstar,NUE
+1403,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/1/2010,HS,Corporate,Nstar,NUE
+1405,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,NuVasive Inc,NVR
+1406,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/12/2010,HS,Corporate,NuVasive Inc,NVR
+1407,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,NVR Inc,OXY
+1408,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,5/24/2010,HS,Corporate,NVR Inc,OXY
+1409,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/26/2017,DG,Corporate,Occidental Petroleum Corp,ODP
+1410,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/18/2009,HS,Corporate,Occidental Petroleum Corp,ODP
+1413,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/5/2013,WO,Corporate,OfficeMax Inc,OCR
+1414,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,6/11/2010,HS,Corporate,OfficeMax Inc,OCR
+1415,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/23/2011,WO,Corporate,Omnicare Inc,OMC
+1416,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/31/2010,HS,Corporate,Omnicare Inc,OMC
+1417,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/11/2018,WO,Corporate,Omnicom Group Inc,OKS
+1418,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/19/2010,HS,Corporate,Omnicom Group Inc,OKS
+1419,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/26/2013,WO,Corporate,"Onyx Pharmaceuticals, Inc.",ORCL
+1420,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/3/2010,HS,Corporate,"Onyx Pharmaceuticals, Inc.",ORCL
+1421,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,7/12/2016,DG,Corporate,Oracle Corp,ORAN
+1422,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,8/26/2010,HS,Corporate,Oracle Corp,ORAN
+1423,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/13/2017,UP,Corporate,O'Reilly Automotive Inc,ORLY
+1424,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/29/2011,HS,Corporate,O'Reilly Automotive Inc,ORLY
+1425,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/5/2015,WO,Corporate,Oshkosh Corp,OSK
+1426,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/20/2012,UP,Corporate,Oshkosh Corp,OSK
+1427,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/26/2010,HS,Corporate,Oshkosh Corp,OSK
+1430,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Owens & Minor Inc,OMI
+1431,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,12/12/2017,DG,Corporate,Owens & Minor Inc,OMI
+1432,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/16/2016,DG,Corporate,Owens & Minor Inc,OMI
+1433,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/28/2010,HS,Corporate,Owens & Minor Inc,OMI
+1441,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,PACCAR Inc,PCAR
+1442,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/20/2010,HS,Corporate,PACCAR Inc,PCAR
+1443,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2015,WO,Corporate,Packaging Corp of America,PKG
+1444,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/4/2013,DG,Corporate,Packaging Corp of America,PKG
+1445,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Packaging Corp of America,PKG
+1452,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/2/2012,WO,Corporate,"Collective Brands, Inc.",CMCSA
+1453,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/3/2010,HS,Corporate,"Collective Brands, Inc.",CMCSA
+1454,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Peabody Energy Corp,BTU
+1455,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,4/9/2014,DG,Corporate,Peabody Energy Corp,BTU
+1456,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,6/7/2010,HS,Corporate,Peabody Energy Corp,BTU
+1463,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,7/8/2016,DG,Corporate,PepsiCo Inc,PEP
+1464,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,1/19/2010,HS,Corporate,PepsiCo Inc,PEP
+1465,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Perrigo Co PLC,PRGO
+1466,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/19/2016,DG,Corporate,Perrigo Co PLC,PRGO
+1467,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/11/2014,DG,Corporate,Perrigo Co PLC,PRGO
+1468,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/27/2013,HS,Corporate,Perrigo Co PLC,PRGO
+1471,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/12/2014,DG,Corporate,Pfizer Inc,PFE
+1472,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2009,HS,Corporate,Pfizer Inc,PFE
+1481,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Piedmont Natural Gas Co Inc,PNY
+1482,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/27/2010,HS,Corporate,Piedmont Natural Gas Co Inc,PNY
+1483,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/12/2018,UP,Corporate,Pioneer Natural Resources Co,PXD
+1484,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/18/2015,DG,Corporate,Pioneer Natural Resources Co,PXD
+1485,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/15/2014,UP,Corporate,Pioneer Natural Resources Co,PXD
+1486,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/9/2010,HS,Corporate,Pioneer Natural Resources Co,PXD
+1487,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2013,WO,Corporate,Pitney Bowes Inc,PBI
+1488,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/15/2011,DG,Corporate,Pitney Bowes Inc,PBI
+1489,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/26/2010,HS,Corporate,Pitney Bowes Inc,PBI
+1490,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/14/2016,WO,Corporate,Plains All American Pipeline LP,PAA
+1491,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/5/2013,UP,Corporate,Plains All American Pipeline LP,PAA
+1492,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/8/2010,HS,Corporate,Plains All American Pipeline LP,PAA
+1493,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2013,WO,Corporate,SPX Corp,SPW
+1494,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/22/2011,DG,Corporate,SPX Corp,SPW
+1495,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/19/2011,UP,Corporate,SPX Corp,SPW
+1496,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,SPX Corp,SPW
+1497,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/19/2016,WO,Corporate,Plum Creek Timber Co Inc,PCL
+1498,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,Plum Creek Timber Co Inc,PCL
+1499,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Ralph Lauren Corp,RRC
+1500,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/20/2015,DG,Corporate,Ralph Lauren Corp,RRC
+1501,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/24/2010,HS,Corporate,Ralph Lauren Corp,RRC
+1502,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/20/2017,WO,Corporate,Southwestern Energy Co,SWN
+1503,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,4/1/2016,DG,Corporate,Southwestern Energy Co,SWN
+1504,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,4/9/2015,DG,Corporate,Southwestern Energy Co,SWN
+1505,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,4/17/2013,HS,Corporate,Southwestern Energy Co,SWN
+1510,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2013,WO,Corporate,Stanley Black & Decker Inc,SWK
+1511,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/8/2011,HS,Corporate,Stanley Black & Decker Inc,SWK
+1512,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/25/2014,WO,Corporate,Staples Inc,SPLS
+1513,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/14/2013,DG,Corporate,Staples Inc,SPLS
+1514,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/29/2010,HS,Corporate,Staples Inc,SPLS
+1515,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/25/2018,DG,Corporate,Starbucks Corp,SBUX
+1516,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,4/26/2016,UP,Corporate,Starbucks Corp,SBUX
+1517,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,2/9/2010,HS,Corporate,Starbucks Corp,SBUX
+1518,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/23/2016,WO,Corporate,Starwood Hotels & Resorts Worldwide Inc,HOT
+1519,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,6/3/2013,UP,Corporate,Starwood Hotels & Resorts Worldwide Inc,HOT
+1520,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/24/2012,UP,Corporate,Starwood Hotels & Resorts Worldwide Inc,HOT
+1521,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/18/2010,HS,Corporate,Starwood Hotels & Resorts Worldwide Inc,HOT
+1522,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/27/2018,WO,Corporate,Equinor ASA,EQY
+1523,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/19/2018,UP,Corporate,Equinor ASA,EQY
+1524,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/10/2015,DG,Corporate,Equinor ASA,EQY
+1525,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/17/2010,HS,Corporate,Equinor ASA,EQY
+1526,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,2/21/2013,UP,Corporate,Steel Dynamics Inc,STLD
+1527,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/2/2010,HS,Corporate,Steel Dynamics Inc,STLD
+1528,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Stericycle Inc,SRCL
+1529,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/12/2010,HS,Corporate,Stericycle Inc,SRCL
+1535,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/7/2014,WO,Corporate,Stoneridge Inc,SRI
+1536,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,10/11/2012,DG,Corporate,Stoneridge Inc,SRI
+1537,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,1/28/2011,HS,Corporate,Stoneridge Inc,SRI
+1540,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,3/9/2016,DG,Corporate,Stryker Corp,SYK
+1541,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/17/2010,DG,Corporate,Stryker Corp,SYK
+1542,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA+,5/12/2010,HS,Corporate,Stryker Corp,SYK
+1543,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,Suburban Propane Partners LP,SPH
+1544,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,9/12/2013,DG,Corporate,Suburban Propane Partners LP,SPH
+1545,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/8/2010,HS,Corporate,Suburban Propane Partners LP,SPH
+1546,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Suncor Energy Inc,SU
+1547,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/26/2010,HS,Corporate,Suncor Energy Inc,SU
+1548,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/14/2016,WO,Corporate,Sunoco Logistics Partners LP,SXL
+1549,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/8/2010,HS,Corporate,Sunoco Logistics Partners LP,SXL
+1550,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Sunoco Inc,SUN
+1551,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,3/15/2010,HS,Corporate,Sunoco Inc,SUN
+1552,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Sunstone Hotel Investors Inc,SHO
+1553,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/20/2011,HS,Corporate,Sunstone Hotel Investors Inc,SHO
+1554,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/16/2013,WO,Corporate,SUPERVALU Inc,SVU
+1555,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/15/2010,HS,Corporate,SUPERVALU Inc,SVU
+1556,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/15/2017,WO,Corporate,Symantec Corp,SYMC
+1557,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/6/2016,DG,Corporate,Symantec Corp,SYMC
+1558,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,2/23/2010,HS,Corporate,Symantec Corp,SYMC
+1559,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Sysco Corp,SYY
+1560,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2015,DG,Corporate,Sysco Corp,SYY
+1561,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,10/29/2010,HS,Corporate,Sysco Corp,SYY
+1566,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/26/2013,WO,Corporate,Tanger Factory Outlet Centers Inc,SKT
+1567,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/20/2011,HS,Corporate,Tanger Factory Outlet Centers Inc,SKT
+1568,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/15/2011,DG,Corporate,Target Corp,TGT
+1569,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/27/2010,HS,Corporate,Target Corp,TGT
+1570,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/2/2012,WO,Corporate,Taubman Centers Inc,TCO
+1571,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/20/2011,HS,Corporate,Taubman Centers Inc,TCO
+1593,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Tenaris SA,THC
+1594,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/21/2010,HS,Corporate,Tenaris SA,THC
+1595,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,Tenet Healthcare Corp,TEN
+1596,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,4/7/2017,DG,Corporate,Tenet Healthcare Corp,TEN
+1597,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,10/12/2012,HS,Corporate,Tenet Healthcare Corp,TEN
+1603,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/5/2018,WO,Corporate,Terex Corp,TEX
+1604,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,2/13/2017,UP,Corporate,Terex Corp,TEX
+1605,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,11/17/2011,DG,Corporate,Terex Corp,TEX
+1606,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/25/2010,HS,Corporate,Terex Corp,TEX
+1616,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/27/2016,UP,Corporate,Texas Instruments Inc,TXN
+1617,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/27/2011,HS,Corporate,Texas Instruments Inc,TXN
+1620,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Innoviva Inc,PODD
+1621,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,5/3/2010,HS,Corporate,Innoviva Inc,PODD
+1622,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,Thermo Fisher Scientific Inc,TMO
+1623,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/8/2013,DG,Corporate,Thermo Fisher Scientific Inc,TMO
+1624,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/26/2011,DG,Corporate,Thermo Fisher Scientific Inc,TMO
+1625,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/18/2010,DG,Corporate,Thermo Fisher Scientific Inc,TMO
+1626,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA,11/18/2009,HS,Corporate,Thermo Fisher Scientific Inc,TMO
+1633,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Thoratec Corp,THOR
+1634,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/11/2010,HS,Corporate,Thoratec Corp,THOR
+1635,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/31/2017,WO,Corporate,Time Warner Inc,TWC
+1636,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/18/2009,HS,Corporate,Time Warner Inc,TWC
+1641,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/24/2010,HS,Corporate,Toll Brothers Inc,TOL
+1647,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Toyota Motor Corp,TM
+1648,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/15/2012,DG,Corporate,Toyota Motor Corp,TM
+1649,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,9/9/2010,HS,Corporate,Toyota Motor Corp,TM
+1652,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/22/2015,WO,Corporate,TransCanada Corp,TRP
+1653,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/21/2010,HS,Corporate,TransCanada Corp,TRP
+1657,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/27/2014,WO,Corporate,Halcon Resources Corp,HAL
+1658,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,10/3/2013,HS,Corporate,Halcon Resources Corp,HAL
+1661,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Triumph Group Inc,TGI
+1662,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/22/2010,HS,Corporate,Triumph Group Inc,TGI
+1663,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/16/2014,WO,Corporate,TRW Automotive Holdings Corp,TRW
+1664,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/15/2010,UP,Corporate,TRW Automotive Holdings Corp,TRW
+1665,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,6/15/2010,HS,Corporate,TRW Automotive Holdings Corp,TRW
+1670,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/8/2018,WO,Corporate,Tyson Foods Inc,TSN
+1671,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/31/2018,UP,Corporate,Tyson Foods Inc,TSN
+1672,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/14/2013,UP,Corporate,Tyson Foods Inc,TSN
+1673,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/19/2010,HS,Corporate,Tyson Foods Inc,TSN
+1679,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Unilever PLC,UL
+1680,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,8/19/2010,HS,Corporate,Unilever PLC,UL
+1681,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/8/2018,DG,Corporate,Union Pacific Corp,UNP
+1682,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,8/6/2014,UP,Corporate,Union Pacific Corp,UNP
+1683,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/22/2010,UP,Corporate,Union Pacific Corp,UNP
+1684,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,11/18/2009,HS,Corporate,Union Pacific Corp,UNP
+1685,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Penske Automotive Group Inc,PAG
+1686,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,12/18/2014,UP,Corporate,Penske Automotive Group Inc,PAG
+1687,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/20/2013,UP,Corporate,Penske Automotive Group Inc,PAG
+1688,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,6/15/2010,HS,Corporate,Penske Automotive Group Inc,PAG
+1689,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/15/2017,NW,Corporate,UDR Inc,UDR
+1690,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/16/2013,WO,Corporate,UDR Inc,UDR
+1691,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/20/2011,HS,Corporate,UDR Inc,UDR
+1692,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/18/2018,WO,Corporate,United Parcel Service Inc,USM
+1693,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,3/18/2011,UP,Corporate,United Parcel Service Inc,USM
+1694,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/18/2009,HS,Corporate,United Parcel Service Inc,USM
+1695,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2015,WO,Corporate,United States Cellular Corp,X
+1696,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,3/11/2015,DG,Corporate,United States Cellular Corp,X
+1697,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/16/2010,HS,Corporate,United States Cellular Corp,X
+1698,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,11/19/2018,UP,Corporate,United States Steel Corp,UTX
+1699,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,12/4/2015,DG,Corporate,United States Steel Corp,UTX
+1700,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,11/28/2011,DG,Corporate,United States Steel Corp,UTX
+1701,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,7/19/2010,HS,Corporate,United States Steel Corp,UTX
+1709,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,12/11/2014,DG,Corporate,Sprint Corp,S
+1710,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,10/19/2012,UP,Corporate,Sprint Corp,S
+1711,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/11/2011,DG,Corporate,Sprint Corp,S
+1712,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,11/18/2009,HS,Corporate,Sprint Corp,S
+1723,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/1/2014,WO,Corporate,Regency Energy Partners LP,RF
+1724,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/3/2013,DG,Corporate,Regency Energy Partners LP,RF
+1725,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,9/23/2010,HS,Corporate,Regency Energy Partners LP,RF
+1732,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,EXCO Resources Inc,EXC
+1733,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/30/2010,HS,Corporate,EXCO Resources Inc,EXC
+1734,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/16/2013,WO,Corporate,Loblaw Companies Ltd,LMT
+1735,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/24/2010,HS,Corporate,Loblaw Companies Ltd,LMT
+1736,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,6/28/2017,UP,Corporate,Teck Resources Ltd,TE
+1737,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/20/2015,DG,Corporate,Teck Resources Ltd,TE
+1738,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/15/2013,DG,Corporate,Teck Resources Ltd,TE
+1739,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/25/2011,UP,Corporate,Teck Resources Ltd,TE
+1740,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/10/2010,HS,Corporate,Teck Resources Ltd,TE
+1747,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,First Quantum Minerals Ltd,FE
+1748,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,6/17/2010,HS,Corporate,First Quantum Minerals Ltd,FE
+1753,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/16/2015,DG,Corporate,Biogen Inc,BIIB
+1754,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,4/25/2011,HS,Corporate,Biogen Inc,BIIB
+1760,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,"Mueller Water Products, Inc.",MUR
+1761,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,9/30/2010,HS,Corporate,"Mueller Water Products, Inc.",MUR
+1762,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,2/19/2013,UP,Corporate,Hanesbrands Inc,HOG
+1763,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,5/13/2010,HS,Corporate,Hanesbrands Inc,HOG
+1764,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/1/2013,WO,Corporate,Leidos Holdings Inc,LDOS
+1765,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/20/2011,DG,Corporate,Leidos Holdings Inc,LDOS
+1766,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/2/2011,HS,Corporate,Leidos Holdings Inc,LDOS
+1767,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1768,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,3/28/2017,UP,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1769,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/24/2016,UP,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1770,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,5/7/2015,UP,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1771,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,11/15/2012,DG,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1772,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,10/22/2010,HS,Corporate,Spirit AeroSystems Holdings Inc,SPR
+1773,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/23/2018,WO,Corporate,DCT Industrial Trust Inc,DE
+1774,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/22/2018,UP,Corporate,DCT Industrial Trust Inc,DE
+1775,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/17/2017,HS,Corporate,DCT Industrial Trust Inc,DE
+1782,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/29/2015,WO,Corporate,Tesco PLC,TESO
+1783,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/22/2010,HS,Corporate,Tesco PLC,TESO
+1787,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Targa Resources Partners LP,NGLS
+1788,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/8/2010,HS,Corporate,Targa Resources Partners LP,NGLS
+1791,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/1/2014,WO,Corporate,Cheniere Energy Partners LP,CHK
+1792,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,10/4/2013,HS,Corporate,Cheniere Energy Partners LP,CHK
+1795,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Cinemark Holdings Inc,CTAS
+1796,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,1/24/2011,UP,Corporate,Cinemark Holdings Inc,CTAS
+1797,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,5/26/2010,HS,Corporate,Cinemark Holdings Inc,CTAS
+1798,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/4/2012,WO,Corporate,Continental Resources Inc,CVG
+1799,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/3/2010,HS,Corporate,Continental Resources Inc,CVG
+1800,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Insulet Corp,INTC
+1801,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,7/5/2011,UP,Corporate,Insulet Corp,INTC
+1802,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,CCC,5/12/2010,HS,Corporate,Insulet Corp,INTC
+1803,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/28/2015,WO,Corporate,Covidien PLC,CR
+1804,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/15/2014,DG,Corporate,Covidien PLC,CR
+1805,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,11/18/2009,HS,Corporate,Covidien PLC,CR
+1806,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/18/2013,WO,Corporate,Polypore International Inc,PPO
+1807,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,8/12/2010,HS,Corporate,Polypore International Inc,PPO
+1808,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/14/2018,WO,Corporate,TE Connectivity Ltd,TECD
+1809,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/28/2010,HS,Corporate,TE Connectivity Ltd,TECD
+1810,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/19/2017,UP,Corporate,Concho Resources Inc,COP
+1811,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,4/17/2013,HS,Corporate,Concho Resources Inc,COP
+1812,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/22/2014,WO,Corporate,American Water Works Co Inc,AWK
+1813,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,11/8/2010,HS,Corporate,American Water Works Co Inc,AWK
+1816,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/11/2018,WO,Corporate,Merck KGaA,MTOR
+1817,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/15/2014,DG,Corporate,Merck KGaA,MTOR
+1818,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,12/6/2013,UP,Corporate,Merck KGaA,MTOR
+1819,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,6/4/2010,HS,Corporate,Merck KGaA,MTOR
+1820,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Linde AG,LLTC
+1821,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/9/2013,UP,Corporate,Linde AG,LLTC
+1822,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/9/2010,HS,Corporate,Linde AG,LLTC
+1823,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,K+S AG,KSU
+1824,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/22/2013,DG,Corporate,K+S AG,KSU
+1825,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,7/3/2013,HS,Corporate,K+S AG,KSU
+1830,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/28/2014,WO,Corporate,SandRidge Energy Inc,SD
+1831,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,5/22/2014,UP,Corporate,SandRidge Energy Inc,SD
+1832,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,4/18/2013,HS,Corporate,SandRidge Energy Inc,SD
+1841,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/14/2016,WO,Corporate,LVMH Moet Hennessy Louis Vuitton SE,MTB
+1842,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,2/11/2011,HS,Corporate,LVMH Moet Hennessy Louis Vuitton SE,MTB
+1846,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,9/29/2015,WO,Corporate,Carrefour,CRI
+1847,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/22/2010,HS,Corporate,Carrefour,CRI
+1857,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Philip Morris International Inc,PM
+1858,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/15/2010,HS,Corporate,Philip Morris International Inc,PM
+1868,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Select Medical Holdings Corp,SEM
+1869,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B,10/12/2012,HS,Corporate,Select Medical Holdings Corp,SEM
+1875,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,7/17/2015,WO,Corporate,Cloud Peak Energy Inc,CME
+1876,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,5/20/2010,HS,Corporate,Cloud Peak Energy Inc,CME
+1877,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/14/2017,WO,Corporate,Mead Johnson Nutrition Co,MWV
+1878,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,3/15/2010,HS,Corporate,Mead Johnson Nutrition Co,MWV
+1881,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/8/2016,WO,Corporate,John Deere Capital Corp,JNJ
+1882,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/12/2011,HS,Corporate,John Deere Capital Corp,JNJ
+1883,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/8/2016,WO,Corporate,Ford Motor Credit Co LLC,BEN
+1884,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/12/2011,HS,Corporate,Ford Motor Credit Co LLC,BEN
+1885,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/5/2018,WO,Corporate,Norwegian Cruise Line Holdings Ltd,NVS
+1886,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,1/15/2016,UP,Corporate,Norwegian Cruise Line Holdings Ltd,NVS
+1887,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/4/2014,DG,Corporate,Norwegian Cruise Line Holdings Ltd,NVS
+1888,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,8/14/2014,HS,Corporate,Norwegian Cruise Line Holdings Ltd,NVS
+1889,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/2/2014,WO,Corporate,Textron Financial Corp,TXT
+1890,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/9/2011,HS,Corporate,Textron Financial Corp,TXT
+1893,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/19/2015,WO,Corporate,CareFusion Corp,CCL
+1894,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/15/2014,DG,Corporate,CareFusion Corp,CCL
+1895,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/1/2010,UP,Corporate,CareFusion Corp,CCL
+1896,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,5/12/2010,HS,Corporate,CareFusion Corp,CCL
+1897,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/5/2018,WO,Corporate,Hyatt Hotels Corp,ITW
+1898,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,8/24/2012,DG,Corporate,Hyatt Hotels Corp,ITW
+1899,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/18/2010,HS,Corporate,Hyatt Hotels Corp,ITW
+1909,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,3/23/2015,WO,Corporate,Allison Transmission Holdings Inc,ALSN
+1910,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,9/20/2012,HS,Corporate,Allison Transmission Holdings Inc,ALSN
+1913,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/22/2016,DG,Corporate,The Mosaic Co,RBS$F
+1914,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/25/2013,HS,Corporate,The Mosaic Co,RBS$F
+1919,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,11/17/2016,DG,Corporate,Phillips 66,PSX
+1920,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,6/27/2013,HS,Corporate,Phillips 66,PSX
+1921,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/17/2015,DG,Corporate,The Kraft Heinz Co,KR
+1922,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/5/2012,HS,Corporate,The Kraft Heinz Co,KR
+1923,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/25/2018,WO,Corporate,Zoetis Inc,ZTS
+1924,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/15/2013,HS,Corporate,Zoetis Inc,ZTS
+1925,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,2/17/2016,WO,Corporate,The ADT Corp,ADT
+1926,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB,2/7/2014,DG,Corporate,The ADT Corp,ADT
+1927,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB+,8/15/2013,DG,Corporate,The ADT Corp,ADT
+1928,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/5/2012,HS,Corporate,The ADT Corp,ADT
+1929,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,6/16/2016,DG,Corporate,AbbVie Inc,ABBV
+1930,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/22/2014,DG,Corporate,AbbVie Inc,ABBV
+1931,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/4/2013,HS,Corporate,AbbVie Inc,ABBV
+1932,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B+,5/17/2018,DG,Corporate,Mallinckrodt PLC,MRO
+1933,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,3/12/2014,DG,Corporate,Mallinckrodt PLC,MRO
+1934,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/2/2013,HS,Corporate,Mallinckrodt PLC,MRO
+1939,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/14/2018,WO,Corporate,Hewlett Packard Enterprise Co,HIW
+1940,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/9/2015,HS,Corporate,Hewlett Packard Enterprise Co,HIW
+1957,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/14/2018,WO,Corporate,Bank of America Corporation,BOH
+1958,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/18/2017,UP,Corporate,Bank of America Corporation,BOH
+1959,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/26/2011,DG,Corporate,Bank of America Corporation,BOH
+1960,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,Bank of America Corporation,BOH
+1961,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2014,WO,Corporate,Bank of Hawaii Corp,BMO
+1962,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,7/19/2010,HS,Corporate,Bank of Hawaii Corp,BMO
+1963,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Bank of Montreal,BK
+1964,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,9/25/2014,UP,Corporate,Bank of Montreal,BK
+1965,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/31/2011,HS,Corporate,Bank of Montreal,BK
+1971,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Barclays PLC,BCS
+1972,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,12/19/2017,NW,Corporate,Barclays PLC,BCS
+1973,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Barclays PLC,BCS
+1974,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/1/2015,DG,Corporate,Barclays PLC,BCS
+1975,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/7/2011,HS,Corporate,Barclays PLC,BCS
+1976,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,9/21/2017,UP,Corporate,BB&T Corp,BBT
+1977,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,BB&T Corp,BBT
+1978,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,7/18/2016,UP,Corporate,BlackRock Inc,BLK
+1979,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,5/19/2010,HS,Corporate,BlackRock Inc,BLK
+1980,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,BOK Financial Corp,BOKF
+1981,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/19/2010,HS,Corporate,BOK Financial Corp,BOKF
+1982,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Canadian Imperial Bank of Commerce,CNI
+1983,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/2/2011,HS,Corporate,Canadian Imperial Bank of Commerce,CNI
+1984,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/27/2018,DG,Corporate,Capital One Financial Corp,CAH
+1985,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,Capital One Financial Corp,CAH
+1991,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,3/18/2015,HS,Corporate,Charles Schwab Corp,CQH
+1992,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/13/2018,WO,Corporate,CME Group Inc,CMS
+1993,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,11/19/2014,HS,Corporate,CME Group Inc,CMS
+1994,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,5/18/2011,UP,Corporate,Citigroup Inc,CYN
+1995,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/14/2010,HS,Corporate,Citigroup Inc,CYN
+1996,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/8/2016,DG,Corporate,Fifth Third Bancorp,FHN
+1997,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,11/6/2012,UP,Corporate,Fifth Third Bancorp,FHN
+1998,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,2/7/2011,UP,Corporate,Fifth Third Bancorp,FHN
+1999,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/19/2010,HS,Corporate,Fifth Third Bancorp,FHN
+2000,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/3/2013,WO,Corporate,First Horizon National Corp,FR
+2001,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/19/2010,HS,Corporate,First Horizon National Corp,FR
+2002,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,FirstMerit Corp,FISV
+2003,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/19/2010,HS,Corporate,FirstMerit Corp,FISV
+2004,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/12/2017,UP,Corporate,Fiserv Inc,FLR
+2005,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/14/2013,UP,Corporate,Fiserv Inc,FLR
+2006,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,5/26/2010,HS,Corporate,Fiserv Inc,FLR
+2008,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Fulton Financial Corp,GBL
+2009,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/19/2011,UP,Corporate,Fulton Financial Corp,GBL
+2010,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/19/2010,HS,Corporate,Fulton Financial Corp,GBL
+2011,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/9/2013,WO,Corporate,GAMCO Investors Inc,GME
+2012,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,9/27/2010,HS,Corporate,GAMCO Investors Inc,GME
+2013,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Goldman Sachs Group Inc,GHC
+2014,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/28/2012,DG,Corporate,Goldman Sachs Group Inc,GHC
+2015,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,Goldman Sachs Group Inc,GHC
+2016,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,KeyCorp,KRC
+2017,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,8/2/2011,UP,Corporate,KeyCorp,KRC
+2018,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/19/2010,HS,Corporate,KeyCorp,KRC
+2019,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,"Knight Capital Group, Inc.",KSS
+2020,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,B-,8/9/2012,DG,Corporate,"Knight Capital Group, Inc.",KSS
+2021,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,5/9/2012,HS,Corporate,"Knight Capital Group, Inc.",KSS
+2022,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/5/2018,WO,Corporate,Legg Mason Inc,LM
+2023,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,9/1/2010,HS,Corporate,Legg Mason Inc,LM
+2032,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/10/2011,WO,Corporate,Marshall & Ilsley Corp.,MLM
+2033,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/19/2010,HS,Corporate,Marshall & Ilsley Corp.,MLM
+2034,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Morgan Stanley,MSI
+2035,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/18/2017,UP,Corporate,Morgan Stanley,MSI
+2036,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,7/19/2010,HS,Corporate,Morgan Stanley,MSI
+2044,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Affiliated Managers Group Inc,AMG
+2045,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/15/2016,UP,Corporate,Affiliated Managers Group Inc,AMG
+2046,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,5/19/2010,HS,Corporate,Affiliated Managers Group Inc,AMG
+2047,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,American Express Co,AXP
+2048,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,American Express Co,AXP
+2052,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Waddell & Reed Financial Inc,WDR
+2053,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,9/1/2010,HS,Corporate,Waddell & Reed Financial Inc,WDR
+2054,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/12/2015,WO,Corporate,Washington Federal Inc,WAFD
+2055,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,Washington Federal Inc,WAFD
+2056,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,12/24/2015,WO,Corporate,Webster Financial Corp,WBS
+2057,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/3/2011,UP,Corporate,Webster Financial Corp,WBS
+2058,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/19/2010,HS,Corporate,Webster Financial Corp,WBS
+2059,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/18/2018,WO,Corporate,Wells Fargo & Co,WFC
+2060,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/28/2015,DG,Corporate,Wells Fargo & Co,WFC
+2061,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,7/19/2010,HS,Corporate,Wells Fargo & Co,WFC
+2069,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/1/2018,WO,Corporate,Ameriprise Financial Inc,AMP
+2070,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,3/27/2011,HS,Corporate,Ameriprise Financial Inc,AMP
+2071,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/18/2015,HS,Corporate,TD Ameritrade Holding Corp,AMTD
+2079,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/12/2015,WO,Corporate,City National Corp,CLH
+2080,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,City National Corp,CLH
+2081,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,2/26/2018,UP,Corporate,Comerica Inc,CBSH
+2082,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,8/2/2011,UP,Corporate,Comerica Inc,CBSH
+2083,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/19/2010,HS,Corporate,Comerica Inc,CBSH
+2084,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,6/24/2014,WO,Corporate,Commerce Bancshares Inc,CMC
+2085,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,7/19/2010,HS,Corporate,Commerce Bancshares Inc,CMC
+2089,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,Cullen/Frost Bankers Inc,CMI
+2090,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/19/2010,HS,Corporate,Cullen/Frost Bankers Inc,CMI
+2091,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Deutsche Bank AG,DVN
+2092,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,2/19/2014,DG,Corporate,Deutsche Bank AG,DVN
+2093,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/7/2011,HS,Corporate,Deutsche Bank AG,DVN
+2099,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,11/30/2018,WO,Corporate,HSBC Holdings PLC,HUB.A
+2100,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,12/19/2017,NW,Corporate,HSBC Holdings PLC,HUB.A
+2101,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,HSBC Holdings PLC,HUB.A
+2102,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,3/26/2015,DG,Corporate,HSBC Holdings PLC,HUB.A
+2103,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,10/7/2011,HS,Corporate,HSBC Holdings PLC,HUB.A
+2106,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Huntington Bancshares Inc,H
+2107,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,12/5/2014,UP,Corporate,Huntington Bancshares Inc,H
+2108,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/7/2011,UP,Corporate,Huntington Bancshares Inc,H
+2109,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/19/2010,HS,Corporate,Huntington Bancshares Inc,H
+2122,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,Northern Trust Corp,NOC
+2123,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,7/19/2010,HS,Corporate,Northern Trust Corp,NOC
+2124,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,People's United Financial Inc,PBCT
+2125,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,7/19/2010,HS,Corporate,People's United Financial Inc,PBCT
+2132,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,SunTrust Banks Inc,STI
+2133,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,1/7/2016,UP,Corporate,SunTrust Banks Inc,STI
+2134,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,2/14/2011,UP,Corporate,SunTrust Banks Inc,STI
+2135,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/19/2010,HS,Corporate,SunTrust Banks Inc,STI
+2136,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,10/29/2013,WO,Corporate,Susquehanna Bancshares Inc,SUSQ
+2137,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,7/19/2010,HS,Corporate,Susquehanna Bancshares Inc,SUSQ
+2138,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/12/2015,WO,Corporate,SVB Financial Group,SIVB
+2139,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,SVB Financial Group,SIVB
+2142,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,TCF Financial Corp,TCB
+2143,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,1/8/2013,DG,Corporate,TCF Financial Corp,TCB
+2144,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,7/19/2010,HS,Corporate,TCF Financial Corp,TCB
+2145,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,The Toronto-Dominion Bank,VAL
+2146,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,AA-,10/28/2011,HS,Corporate,The Toronto-Dominion Bank,VAL
+2147,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,UBS Group AG,OUBS
+2148,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,10/7/2011,HS,Corporate,UBS Group AG,OUBS
+2160,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/18/2018,WO,Corporate,The Royal Bank of Scotland Group PLC,TKR
+2161,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,12/19/2017,NW,Corporate,The Royal Bank of Scotland Group PLC,TKR
+2162,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,The Royal Bank of Scotland Group PLC,TKR
+2163,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,3/26/2015,DG,Corporate,The Royal Bank of Scotland Group PLC,TKR
+2164,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/7/2011,HS,Corporate,The Royal Bank of Scotland Group PLC,TKR
+2165,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,National Bank of Canada,NFG
+2166,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,11/14/2011,HS,Corporate,National Bank of Canada,NFG
+2177,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,7/19/2010,HS,Corporate,Discover Financial Services,DISH
+2184,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/29/2014,WO,Corporate,Intesa Sanpaolo,INTU
+2185,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BB-,6/13/2012,DG,Corporate,Intesa Sanpaolo,INTU
+2186,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/7/2011,HS,Corporate,Intesa Sanpaolo,INTU
+2190,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Credit Agricole SA,DGLD
+2191,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB-,6/13/2012,DG,Corporate,Credit Agricole SA,DGLD
+2192,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,4/24/2012,DG,Corporate,Credit Agricole SA,DGLD
+2193,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A-,10/7/2011,HS,Corporate,Credit Agricole SA,DGLD
+2194,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,1/15/2016,WO,Corporate,Nordea Bank AB,JWN
+2195,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A,1/23/2013,HS,Corporate,Nordea Bank AB,JWN
+2200,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,4/2/2015,WO,Corporate,KBC Group SA/NV,K
+2201,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,10/7/2011,HS,Corporate,KBC Group SA/NV,K
+2208,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,5/8/2014,WO,Corporate,Julius Baer Gruppe AG,JNPR
+2209,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,A+,10/7/2011,HS,Corporate,Julius Baer Gruppe AG,JNPR
+2212,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,WO,8/19/2016,WO,Corporate,The Carlyle Group LP,CG
+2213,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB+,10/7/2014,HS,Corporate,The Carlyle Group LP,CG
+2214,"Morningstar Credit Ratings, LLC.",1/17/2019,FALSE,BBB,8/4/2014,HS,Corporate,Synchrony Financial,SYF
