@@ -10,9 +10,9 @@ There are 30 features for every company of which 25 are financial indicators. Th
 
 - `Liquidity Measurement Ratios:` currentRatio, quickRatio, cashRatio, daysOfSalesOutstanding
 - `Profitability Indicator Ratios:` grossProfitMargin, operatingProfitMargin, pretaxProfitMargin, netProfitMargin, effectiveTaxRate, returnOnAssets, returnOnEquity, returnOnCapitalEmployed
-`Debt Ratios:` debtRatio, debtEquityRatio
-`Operating Performance Ratios:` assetTurnover
-`Cash Flow Indicator Ratios`: operatingCashFlowPerShare, freeCashFlowPerShare, cashPerShare, operatingCashFlowSalesRatio, freeCashFlowOperatingCashFlowRatio
+- `Debt Ratios:` debtRatio, debtEquityRatio
+- `Operating Performance Ratios:` assetTurnover
+- `Cash Flow Indicator Ratios`: operatingCashFlowPerShare, freeCashFlowPerShare, cashPerShare, operatingCashFlowSalesRatio, freeCashFlowOperatingCashFlowRatio
 
 
 ## Results
